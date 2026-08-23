@@ -44,7 +44,7 @@ npm run build      # typecheck + production bundle
 
 Actively developed solo project — the engine core and gameplay loop work today; multiplayer and fluids are foundational, not finished.
 
-Part of a robotics & simulation series with [torque](https://github.com/ibnshafi/torque), [helios](https://github.com/ibnshafi/helios), and [drag_sim](https://github.com/ibnshafi/drag_sim).
+Part of a robotics & simulation series with [torque](https://github.com/hexa3/torque), [helios](https://github.com/hexa3/helios), and [drag_sim](https://github.com/hexa3/drag_sim).
 
 ## License
 
