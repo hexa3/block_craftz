@@ -49,3 +49,7 @@ Part of a robotics & simulation series with [torque](https://github.com/hexa3/to
 ## License
 
 [MIT](LICENSE)
+
+---
+
+<p align="center">Built by <a href="https://sheheryar.xyz">Sheheryar</a> · <a href="https://github.com/hexa3">github.com/hexa3</a></p>
